@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
   name: "shade_window_goes_around"
-  state: ENABLED
+  state: DISABLED
   permission: READ_WRITE
 }
